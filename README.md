@@ -1,50 +1,60 @@
 # tableau-sales-analytics
 Interactive tableau dashboard analyzing sales performance, revenue trends, Profitability, and regional business performance
+📊 Sales Performance Dashboard | Tableau
 
-📊 Sales Analytics Dashboard | Tableau
+Project Overview
 
-📌 Project Overview
+This project focuses on analyzing sales performance using Tableau to understand revenue trends, profitability, product performance, and overall business growth. The dashboard presents business data through visualizations that help monitor key metrics and support data-driven decision-making.
 
-This project presents an interactive Tableau dashboard designed to analyze sales performance, revenue trends, profitability, and regional business performance.
+Project Objectives
 
-🎯 Project Objectives
+- Monitor overall sales performance and revenue trends.
+- Analyze profitability and business performance.
+- Evaluate product and category-wise sales.
+- Compare sales performance across different regions.
+- Identify trends and patterns to support business decisions.
 
-- Analyze overall sales and profit performance.
-- Identify top-performing products and categories.
-- Compare regional sales performance.
-- Track trends using key performance indicators (KPIs).
-- Support data-driven business decisions.
-
-🛠️ Tools & Technologies
+Tools & Technologies
 
 - Tableau
 - Microsoft Excel
 - Data Visualization
 - Business Analytics
 
-📈 Dashboard Preview
+Analysis & Methodology
 
-The dashboard screenshot will be added here.
+- Explored and analyzed sales data to understand business performance.
+- Evaluated key sales and profitability metrics.
+- Developed visualizations to compare performance across relevant categories.
+- Analyzed sales trends to identify patterns and changes over time.
+- Designed an interactive Tableau dashboard for business performance monitoring.
 
-🔑 Key Performance Indicators
+Key Features
 
-- Total Sales
-- Total Profit
-- Profit Margin
-- Total Orders
+- Sales performance analysis.
+- Revenue and profitability monitoring.
+- Product and category-wise comparisons.
+- Regional sales analysis.
+- Interactive visualizations for exploring business trends.
 
-Include only the KPIs present in your dashboard.
+Business Value
 
-💡 Key Insights
+The dashboard provides a structured view of sales performance and helps users understand revenue patterns, compare business segments, and evaluate profitability. These insights can support sales planning, performance monitoring, and informed business decisions.
 
-Key findings will be documented after analyzing the dashboard and its visualizations.
+Skills Demonstrated
 
-📂 Project Files
+- Tableau Dashboard Development
+- Data Visualization
+- Exploratory Data Analysis
+- Sales Performance Analysis
+- KPI Analysis
+- Business Intelligence
+- Data-Driven Decision-Making
 
-- Tableau workbook (.twbx)
-- Dashboard screenshot
-- Dataset (if publicly shareable)
+Author
 
-👨‍💻 Author
+Madhav Kumar  
 
-Madhav Kumar Shah
+GitHub: https://github.com/madhav-kumar-shah
+
+LinkedIn: https://www.linkedin.com/in/madhav-kumar-432021249/
