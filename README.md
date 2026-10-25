@@ -1,6 +1,6 @@
 # tableau-sales-analytics
 Interactive tableau dashboard analyzing sales performance, revenue trends, Profitability, and regional business performance
-📊 Sales Performance Dashboard | Tableau
+Sales Performance Dashboard | Tableau
 
 Project Overview
 
@@ -55,6 +55,3 @@ Author
 
 Madhav Kumar  
 
-GitHub: https://github.com/madhav-kumar-shah
-
-LinkedIn: https://www.linkedin.com/in/madhav-kumar-432021249/
